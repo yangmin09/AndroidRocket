@@ -1,2 +1,0 @@
-# AndroidRocket
-learn...android
